@@ -1,0 +1,100 @@
+==========  PRIMEIRO PASSO ===========
+
+DROP TABLE FOLHA_PAG;
+
+DROP TABLE PONTO;
+
+DROP TABLE ENDERECO;
+
+DROP TABLE FUNCIONARIO;
+
+
+
+==========  SEGUNDO PASSO ===========
+
+
+CREATE TABLE USER_PIM (
+                      ID_USUARIO  SERIAL CONSTRAINT pk_user_pim primary key,
+                      LOGIN       VARCHAR(50),
+                      SENHA       VARCHAR(8),
+                      NIVEL_AC    VARCHAR(50)
+                      )
+                      ;
+
+CREATE TABLE CARGO   (
+                      ID_CARGO    SERIAL CONSTRAINT pk_cargo primary key,
+                      NOME_CARGO  VARCHAR(200),
+                      SAL_BASE    FLOAT,
+                      ID_DEPTO    INTEGER
+                      )
+                      ;
+CREATE TABLE DEPTO    (
+                      ID_DEPTO    SERIAL CONSTRAINT pk_depto primary key,
+                      NOME_DEPTO  VARCHAR(100),
+                      RESP_DEPTO  INTEGER
+                      )
+                      ;
+CREATE TABLE FUNCIONARIO (
+                         ID_FUNC          SERIAL CONSTRAINT pk_func primary key,
+                         NOME_FUNC        VARCHAR(200),
+                         CPF              VARCHAR(20),
+                         EMAIL            VARCHAR(200),
+	                   SENHA		VARCHAR(10),
+				 TELEFONE		VARCHAR(20),      
+				 DT_NASC          DATE,
+                         DT_ADM           DATE,
+				 SALARIO_BASE	FLOAT,
+                         DEPTO         	VARCHAR(20),
+                         CARGO         	VARCHAR(20),
+                         STATUS           VARCHAR(10)
+                         )
+                         ;
+CREATE TABLE ENDERECO (
+                      ID_ENDERECO         SERIAL CONSTRAINT pk_endereco primary key,
+                      ID_FUNC             INTEGER,
+                      RUA                 VARCHAR(200),
+                      NUMERO              VARCHAR(10),
+                      COMPLEMENTO		VARCHAR(100),
+			    CIDADE              VARCHAR(100),
+                      ESTADO              VARCHAR(50),
+                      CEP                 VARCHAR(10),
+                      CONSTRAINT fk_func FOREIGN KEY (ID_FUNC) REFERENCES FUNCIONARIO (ID_FUNC)
+                      )
+			    ;	
+CREATE TABLE PONTO (
+				ID_PONTO	SERIAL CONSTRAINT pk_ponto PRIMARY KEY,
+				ID_FUNC		INTEGER,
+				DATA_ENTRADA	DATE,
+				HORA_ENTRADA	TIME,
+				DATA_SAIDA		DATE,
+				HORA_SAIDA		TIME,
+				INTERVALO		TIME,
+				HORAS_TRAB		TIME,
+				HORAS_PREV		TIME,
+				HORAS_EXTRA		TIME,
+				COMPETENCIA		VARCHAR(10),
+				CONSTRAINT fk_func FOREIGN KEY (ID_FUNC) REFERENCES FUNCIONARIO (ID_FUNC)
+	)
+	;
+CREATE TABLE FOLHA_PAG (
+			    ID_FOLHA		SERIAL,
+			    COMPETENCIA		VARCHAR(10),
+			    ID_FUNC			INTEGER,
+			    SAL_BASE		FLOAT,
+			    TAXA_HORA		FLOAT,
+		  	    HORA_TRAB		FLOAT,
+			    HORA_NORM		FLOAT,
+			    HORA_EXTR		FLOAT,
+			    INSS_DESC		FLOAT,
+			    IRRF_DESC	      FLOAT,
+			    SAL_LIQU		FLOAT,
+			    CONSTRAINT pk_folha PRIMARY KEY (competencia,id_func),
+			    CONSTRAINT fk_func FOREIGN KEY (ID_FUNC) REFERENCES FUNCIONARIO (ID_FUNC)	
+			    )
+			    ;
+
+
+==========  TERCEIRO PASSO ===========
+
+
+ALTER SEQUENCE FUNCIONARIO_ID_FUNC_SEQ RESTART WITH 1001;
