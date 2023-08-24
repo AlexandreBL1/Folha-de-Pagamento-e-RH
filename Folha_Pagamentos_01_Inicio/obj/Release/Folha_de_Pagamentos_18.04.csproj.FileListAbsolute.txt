@@ -1,0 +1,1323 @@
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\Ailton\Desktop\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\Folha_Pagamentos_01_Inicio\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\PIM ultima atualização v2\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\PIM ultima atualização v3.1 (Cadastro de Endereço e Frm Folha)\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\ct52482\Documents\PIM\PIM ultima atualização v4.1 Ediçao de funcionarios\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\abura\Downloads\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\Ailton\Desktop\08052023 1600 PIM Versao Ativa\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\Ailton\Desktop\09 05 23 PIM estilizado\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmProcessarFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\09 05 23 PIM ultimo upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmProcessarFolha.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\10 05 23 Pim Ultimo Upload\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmProcessarFolha.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\10052023 1740 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmProcessarFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\10052023 2300 Versao Ativa PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmProcessarFolha.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\11052023 0440 Versao Final PIM\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmProcessarFolha.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFuncionario.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\silvi\source\repos\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmProcessarFolha.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+D:\projetos em c#\Projetos VS Comunnity\windows form\1105 1448 pim cristiano\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFunc.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFunc.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmProcessarFolha.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\ct52482\Documents\PIM\1105 1711 PIM ATUALIZAÇAO FINAL\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.config
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Folha_Pagamentos_01_Inicio.pdb
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.Interfaces.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.dll
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\EPPlus.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\Npgsql.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Buffers.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Collections.Immutable.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Memory.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Numerics.Vectors.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Text.Json.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Channels.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\bin\Release\System.ValueTuple.xml
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.AssemblyReference.cache
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmApontamento.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarEndereco.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFolha.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarEndereco.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolha.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFolhadePonto.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHoleriteFunc.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmImportar.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmProcessarFolha.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Form_Login.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmBaterPontoFuncionario.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmCadastrarFuncionario.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarFuncionario.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmConsultarHolerite.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmDadosFuncionario.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmEditarFunc.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmHolerite.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.form_principal.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmFuncionario.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmMenuFuncionario.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.FrmPonto.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.Properties.Resources.resources
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.GenerateResource.cache
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CoreCompileInputs.cache
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe.manifest
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.application
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_de_Pagamentos_18.04.csproj.CopyComplete
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.exe
+C:\Users\abura\Downloads\PIM FINAL APRESENTACAO\Folha_Pagamentos_01_Inicio\obj\Release\Folha_Pagamentos_01_Inicio.pdb
