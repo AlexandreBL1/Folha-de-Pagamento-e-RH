@@ -1,0 +1,80 @@
+﻿using Npgsql;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Folha_Pagamentos_01_Inicio
+{
+    public partial class FrmHoleriteFunc : Form
+    {
+        public FrmHoleriteFunc()
+        {
+            InitializeComponent();
+
+            Form_Login log = new Form_Login();
+            string login_func = FuncionarioLogado.funcionario_cpf;
+            FuncionarioLogado.pegarId(login_func);
+
+            string query = "SELECT DISTINCT competencia FROM FOLHA_PAG";
+            using (NpgsqlConnection conn = BD.GetConnection())
+            {
+                conn.Open();
+                using (NpgsqlCommand cmd = new NpgsqlCommand(query, conn))
+                {
+                    using (NpgsqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            string competencia = reader["competencia"].ToString();
+                            comboBox1.Items.Add(competencia);
+                        }
+                    }
+                }
+            }
+            txtMatricula.Text = Convert.ToString(FuncionarioLogado.funcionario_mat);
+
+            dataGridView1.Columns.Add("competencia", "Competencia");
+            dataGridView1.Columns.Add("Matricula", "Matricula");
+            dataGridView1.Columns.Add("Nome", "Nome");
+            //dataGridView1.Columns.Add("salario_base", "Salario Base");
+            dataGridView1.Columns.Add("taxa_hora", "Taxa Hora");
+            dataGridView1.Columns.Add("horas_trabalhadas", "Horas Trabalhadas");
+            dataGridView1.Columns.Add("horas_normais", "Horas Normais");
+            dataGridView1.Columns.Add("horas_extras", "Horas Extras");
+            //dataGridView1.Columns.Add("salario_liquidos", "Salario Liquido");
+            dataGridView1.Columns.Add("desconto_inss", "Descontos INSS");
+            dataGridView1.Columns.Add("desconto_irrf", "Desconto IRRF");
+            dataGridView1.Columns.Add("salario_liquido", "Salario Liquido");
+
+            dataGridView1.AutoResizeColumns();
+            dataGridView1.AutoResizeRows();
+        }
+
+        private void FrmHoleriteFunc_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnBusca_Click(object sender, EventArgs e)
+        {
+            dataGridView1.Rows.Clear();
+            string compe = comboBox1.Text;
+            int id_func = FuncionarioLogado.funcionario_mat;
+            List<Salario> func = BD.FolhaPag(compe, id_func);
+            foreach (var funcionario in func)
+            {
+                dataGridView1.Rows.Add(funcionario.competencia, funcionario.Matricula, funcionario.Nome, /*funcionario.Salario_Bruto,*/ funcionario.taxa_hora, funcionario.horas_trabalhadas, funcionario.horas_normais, funcionario.horas_extra, funcionario.inss_desc, funcionario.irrf_desc, funcionario.sal_liquido);
+
+            }
+            dataGridView1.AutoResizeColumns();
+            dataGridView1.AutoResizeRows();
+
+        }
+    }
+}

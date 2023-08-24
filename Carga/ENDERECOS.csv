@@ -1,0 +1,36 @@
+id_func;rua;numero;complemento;cidade;estado;cep
+1002;Rua das Flores;123;Apto 1;São Paulo;SP;01234-567
+1003;Rua das Palmeiras;456;Casa 2;Rio de Janeiro;RJ;04567-890
+1004;Rua dos Girassóis;789;Sala 3;Belo Horizonte;MG;02345-678
+1005;Rua dos Ipês;234;Apto 4;Porto Alegre;RS;05678-901
+1006;Rua das Acácias;567;Casa 5;Brasília;DF;06789-012
+1007;Rua das Violetas;890;Sala 6;Salvador;BA;09012-345
+1008;Rua dos Cravos;123;Apto 7;Fortaleza;CE;01234-567
+1009;Rua das Orquídeas;456;Casa 8;Recife;PE;04567-890
+1010;Rua das Margaridas;789;Sala 9;Manaus;AM;02345-678
+1011;Rua dos Lírios;234;Apto 10;Curitiba;PR;05678-901
+1012;Rua das Rosas;567;Casa 11;Goiânia;GO;06789-012
+1013;Rua dos Jasmim;890;Sala 12;Natal;RN;09012-345
+1014;Rua das Begônias;123;Apto 13;Florianópolis;SC;01234-567
+1015;Rua das Azaleias;456;Casa 14;João Pessoa;PB;04567-890
+1016;Rua dos Crisântemos;789;Sala 15;Teresina;PI;02345-678
+1017;Rua dos Antúrios;234;Apto 16;São Luís;MA;05678-901
+1018;Rua das Hortênsias;567;Casa 17;Aracaju;SE;06789-012
+1019;Rua das Bromélias;890;Sala 18;Cuiabá;MT;09012-345
+1020;Rua das Tulipas;123;Apto 19;Belém;PA;01234-567
+1021;Rua das Camélias;456;Casa 20;Campo Grande;MS;04567-890
+1022;Rua dos Crisântemos;789;Sala 21;Macapá;AP;02345-678
+1023;Rua dos Girassóis;234;Apto 22;Vitória;ES;05678-901
+1024;Rua dos Coqueiros;123;Apto 1;São Paulo;SP;01234-567
+1026;Rua das Amendoeiras;456;Casa 2;Rio de Janeiro;RJ;04567-890
+1027;Rua das Magnólias;789;Sala 3;Belo Horizonte;MG;02345-678
+1028;Rua das Jabuticabas;234;Apto 4;Porto Alegre;RS;05678-901
+1029;Rua das Laranjeiras;567;Casa 5;Brasília;DF;06789-012
+1031;Rua dos Manacás;890;Sala 6;Salvador;BA;09012-345
+1032;Rua das Azaleias;123;Apto 7;Fortaleza;CE;01234-567
+1033;Rua dos Ipês;456;Casa 8;Recife;PE;04567-890
+1034;Rua das Orquídeas;789;Sala 9;Manaus;AM;02345-678
+1035;Rua das Violetas;234;Apto 10;Curitiba;PR;05678-901
+1030;Rua dos Flamboyants;567;Casa 11;Goiânia;GO;06789-012
+1025;Rua das Hortênsias;890;Sala 12;Natal;RN;09012-345
+1001;Rua dos Cravos;123;Apto 13;Florianópolis;SC;01234-567
