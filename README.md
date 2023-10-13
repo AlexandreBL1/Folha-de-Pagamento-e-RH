@@ -1,1 +1,1 @@
-# Folha-de-Pagamento-e-RH, Caso for usar o sistema, faça a criação do banco de dados usando o postgree usando o script deixado e altere a localização de seu banco de dados no método GetConnection
+# Folha-de-Pagamento-e-RH, é um sistema que foi utilizado o banco de dados postgree. Ao utilizar o sistema necessario mudar a string de conexão no metodo GetConnection.
